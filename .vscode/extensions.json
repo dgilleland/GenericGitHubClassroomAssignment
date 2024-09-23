@@ -3,7 +3,12 @@
         "vsls-contrib.codetour",
         "yzhang.markdown-all-in-one",
         "yzane.markdown-pdf",
-        "analytic-signal.preview-pdf",
-        "vsls-contrib.gitdoc"
+        "analytic-signal.preview-pdf"
+    ],
+    "unwantedRecommendations": [
+      "GitHub.copilot",
+      "GitHub.copilot-chat",
+      "supermaven.supermaven",
+      "TabNine.tabnine-vscode"
     ]
 }
